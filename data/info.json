@@ -1,0 +1,15 @@
+[
+    {
+    "firstname": "Rosjana",
+    "lastname": "Homprasit",
+    "email": "xxx@gmail.com",
+    "phone": "0990000000",
+    "totaladdress": {
+        "address": "22 Rue du Grenier Saint-Lazare",
+        "country": "Aruba",
+        "state": "Paris",
+        "province": "FRA",
+        "code": "112233"
+      }
+}
+]
